@@ -1,0 +1,11 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build artifacts
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore dependency lock files
+package-lock.json
